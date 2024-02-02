@@ -63,4 +63,5 @@ var Directives = []string{
 	"sign",
 	"view",
 	"pveresolver",
+	"records",
 }

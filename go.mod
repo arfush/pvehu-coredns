@@ -61,6 +61,8 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/buger/goterm v1.0.4 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
+	github.com/coredns/policy v0.0.0-20220801124252-80b8eac97936 // indirect
+	github.com/coredns/records v0.0.0-20230310133434-a3157e710d9e // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
